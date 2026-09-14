@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "scope": {
+    "agency": "NYPD",
+    "borough": "BROOKLYN",
+    "categories": [
+      "Noise - Residential",
+      "Illegal Parking",
+      "Blocked Driveway"
+    ],
+    "timezone": "America/New_York"
+  },
+  "origin": "2026-08-31",
+  "generated_at": "2026-09-12T22:46:24.611703+00:00",
+  "policy": "weekday_mean_4w",
+  "selected_candidate": {
+    "id": "regularized_120",
+    "num_leaves": 15,
+    "max_depth": 4,
+    "n_estimators": 120,
+    "min_child_samples": 50
+  },
+  "evaluation_start": "2026-07-27",
+  "evaluation_end": "2026-08-30",
+  "baseline_start": "2026-06-01",
+  "baseline_end": "2026-08-30",
+  "caveat": "Revised-data retrospective evaluation; historical availability is not reconstructed. No calibrated prediction intervals.",
+  "input_evidence": {
+    "type": "archives",
+    "coverage_basis": "owner_attested_successful_reconciled_live_runs",
+    "manifest_sha256": "7c09e40d56cd79a4bbe176f59a6c65966b9b3b2711eab2be876be7561e53ce60",
+    "unique_raw_records": 200424,
+    "scoped_records": 145067,
+    "note": "Live run statuses supplied by owner; hashes/counts verified locally. No DB dump supplied."
+  },
+  "checksums": {
+    "history.csv": "0ded04003669f62854e76267b96974b650465d67935444d1b6e95362587db4c8",
+    "evaluation.csv": "ebabb7396a4ee6d231dae3cd82cff5811513b1f790731e07c45901ac75c428c0",
+    "forecast.csv": "862515ac3a1cbe5bf54e0b256c2a06ec4d0debd3128c59813fc3fcfe4cf886df",
+    "validation.csv": "dc9f34e2292d67cda1b157968839ef8343194d57ba98cf7fcd23e3a090f29ef6",
+    "baseline_full.csv": "a747da6f841ab9c3d84ddc1e86c7044dfe15050a28dabf76ccf119d1448be815",
+    "model/metadata.json": "740acb5724011bed94cd2c8b467ce98a9a0a8d7c9cb46c2ead6c99178fda555b",
+    "model/model.txt": "54e709b68ce8abc6cf955ea635705e9e8ab3eac8aefdd1ddb8375c4343a5933c"
+  }
+}

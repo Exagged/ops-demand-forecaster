@@ -1,0 +1,370 @@
+demand_date,category,area,request_count,is_complete
+2026-05-01,Noise - Residential,BROOKLYN,325,True
+2026-05-01,Illegal Parking,BROOKLYN,789,True
+2026-05-01,Blocked Driveway,BROOKLYN,166,True
+2026-05-02,Noise - Residential,BROOKLYN,553,True
+2026-05-02,Illegal Parking,BROOKLYN,654,True
+2026-05-02,Blocked Driveway,BROOKLYN,154,True
+2026-05-03,Noise - Residential,BROOKLYN,417,True
+2026-05-03,Illegal Parking,BROOKLYN,666,True
+2026-05-03,Blocked Driveway,BROOKLYN,173,True
+2026-05-04,Noise - Residential,BROOKLYN,348,True
+2026-05-04,Illegal Parking,BROOKLYN,814,True
+2026-05-04,Blocked Driveway,BROOKLYN,217,True
+2026-05-05,Noise - Residential,BROOKLYN,364,True
+2026-05-05,Illegal Parking,BROOKLYN,806,True
+2026-05-05,Blocked Driveway,BROOKLYN,187,True
+2026-05-06,Noise - Residential,BROOKLYN,225,True
+2026-05-06,Illegal Parking,BROOKLYN,683,True
+2026-05-06,Blocked Driveway,BROOKLYN,180,True
+2026-05-07,Noise - Residential,BROOKLYN,267,True
+2026-05-07,Illegal Parking,BROOKLYN,828,True
+2026-05-07,Blocked Driveway,BROOKLYN,187,True
+2026-05-08,Noise - Residential,BROOKLYN,300,True
+2026-05-08,Illegal Parking,BROOKLYN,720,True
+2026-05-08,Blocked Driveway,BROOKLYN,200,True
+2026-05-09,Noise - Residential,BROOKLYN,445,True
+2026-05-09,Illegal Parking,BROOKLYN,680,True
+2026-05-09,Blocked Driveway,BROOKLYN,178,True
+2026-05-10,Noise - Residential,BROOKLYN,535,True
+2026-05-10,Illegal Parking,BROOKLYN,698,True
+2026-05-10,Blocked Driveway,BROOKLYN,175,True
+2026-05-11,Noise - Residential,BROOKLYN,269,True
+2026-05-11,Illegal Parking,BROOKLYN,769,True
+2026-05-11,Blocked Driveway,BROOKLYN,226,True
+2026-05-12,Noise - Residential,BROOKLYN,231,True
+2026-05-12,Illegal Parking,BROOKLYN,766,True
+2026-05-12,Blocked Driveway,BROOKLYN,213,True
+2026-05-13,Noise - Residential,BROOKLYN,221,True
+2026-05-13,Illegal Parking,BROOKLYN,739,True
+2026-05-13,Blocked Driveway,BROOKLYN,211,True
+2026-05-14,Noise - Residential,BROOKLYN,245,True
+2026-05-14,Illegal Parking,BROOKLYN,696,True
+2026-05-14,Blocked Driveway,BROOKLYN,212,True
+2026-05-15,Noise - Residential,BROOKLYN,336,True
+2026-05-15,Illegal Parking,BROOKLYN,747,True
+2026-05-15,Blocked Driveway,BROOKLYN,212,True
+2026-05-16,Noise - Residential,BROOKLYN,686,True
+2026-05-16,Illegal Parking,BROOKLYN,644,True
+2026-05-16,Blocked Driveway,BROOKLYN,169,True
+2026-05-17,Noise - Residential,BROOKLYN,609,True
+2026-05-17,Illegal Parking,BROOKLYN,767,True
+2026-05-17,Blocked Driveway,BROOKLYN,186,True
+2026-05-18,Noise - Residential,BROOKLYN,316,True
+2026-05-18,Illegal Parking,BROOKLYN,696,True
+2026-05-18,Blocked Driveway,BROOKLYN,207,True
+2026-05-19,Noise - Residential,BROOKLYN,270,True
+2026-05-19,Illegal Parking,BROOKLYN,787,True
+2026-05-19,Blocked Driveway,BROOKLYN,228,True
+2026-05-20,Noise - Residential,BROOKLYN,193,True
+2026-05-20,Illegal Parking,BROOKLYN,682,True
+2026-05-20,Blocked Driveway,BROOKLYN,238,True
+2026-05-21,Noise - Residential,BROOKLYN,210,True
+2026-05-21,Illegal Parking,BROOKLYN,759,True
+2026-05-21,Blocked Driveway,BROOKLYN,221,True
+2026-05-22,Noise - Residential,BROOKLYN,308,True
+2026-05-22,Illegal Parking,BROOKLYN,632,True
+2026-05-22,Blocked Driveway,BROOKLYN,165,True
+2026-05-23,Noise - Residential,BROOKLYN,430,True
+2026-05-23,Illegal Parking,BROOKLYN,432,True
+2026-05-23,Blocked Driveway,BROOKLYN,117,True
+2026-05-24,Noise - Residential,BROOKLYN,456,True
+2026-05-24,Illegal Parking,BROOKLYN,484,True
+2026-05-24,Blocked Driveway,BROOKLYN,167,True
+2026-05-25,Noise - Residential,BROOKLYN,437,True
+2026-05-25,Illegal Parking,BROOKLYN,628,True
+2026-05-25,Blocked Driveway,BROOKLYN,201,True
+2026-05-26,Noise - Residential,BROOKLYN,318,True
+2026-05-26,Illegal Parking,BROOKLYN,805,True
+2026-05-26,Blocked Driveway,BROOKLYN,281,True
+2026-05-27,Noise - Residential,BROOKLYN,312,True
+2026-05-27,Illegal Parking,BROOKLYN,736,True
+2026-05-27,Blocked Driveway,BROOKLYN,197,True
+2026-05-28,Noise - Residential,BROOKLYN,286,True
+2026-05-28,Illegal Parking,BROOKLYN,706,True
+2026-05-28,Blocked Driveway,BROOKLYN,196,True
+2026-05-29,Noise - Residential,BROOKLYN,342,True
+2026-05-29,Illegal Parking,BROOKLYN,777,True
+2026-05-29,Blocked Driveway,BROOKLYN,211,True
+2026-05-30,Noise - Residential,BROOKLYN,567,True
+2026-05-30,Illegal Parking,BROOKLYN,687,True
+2026-05-30,Blocked Driveway,BROOKLYN,149,True
+2026-05-31,Noise - Residential,BROOKLYN,593,True
+2026-05-31,Illegal Parking,BROOKLYN,680,True
+2026-05-31,Blocked Driveway,BROOKLYN,194,True
+2026-06-01,Noise - Residential,BROOKLYN,277,True
+2026-06-01,Illegal Parking,BROOKLYN,882,True
+2026-06-01,Blocked Driveway,BROOKLYN,242,True
+2026-06-02,Noise - Residential,BROOKLYN,270,True
+2026-06-02,Illegal Parking,BROOKLYN,828,True
+2026-06-02,Blocked Driveway,BROOKLYN,208,True
+2026-06-03,Noise - Residential,BROOKLYN,302,True
+2026-06-03,Illegal Parking,BROOKLYN,727,True
+2026-06-03,Blocked Driveway,BROOKLYN,183,True
+2026-06-04,Noise - Residential,BROOKLYN,291,True
+2026-06-04,Illegal Parking,BROOKLYN,805,True
+2026-06-04,Blocked Driveway,BROOKLYN,208,True
+2026-06-05,Noise - Residential,BROOKLYN,331,True
+2026-06-05,Illegal Parking,BROOKLYN,682,True
+2026-06-05,Blocked Driveway,BROOKLYN,192,True
+2026-06-06,Noise - Residential,BROOKLYN,437,True
+2026-06-06,Illegal Parking,BROOKLYN,628,True
+2026-06-06,Blocked Driveway,BROOKLYN,164,True
+2026-06-07,Noise - Residential,BROOKLYN,424,True
+2026-06-07,Illegal Parking,BROOKLYN,769,True
+2026-06-07,Blocked Driveway,BROOKLYN,217,True
+2026-06-08,Noise - Residential,BROOKLYN,243,True
+2026-06-08,Illegal Parking,BROOKLYN,858,True
+2026-06-08,Blocked Driveway,BROOKLYN,212,True
+2026-06-09,Noise - Residential,BROOKLYN,281,True
+2026-06-09,Illegal Parking,BROOKLYN,864,True
+2026-06-09,Blocked Driveway,BROOKLYN,206,True
+2026-06-10,Noise - Residential,BROOKLYN,255,True
+2026-06-10,Illegal Parking,BROOKLYN,802,True
+2026-06-10,Blocked Driveway,BROOKLYN,192,True
+2026-06-11,Noise - Residential,BROOKLYN,244,True
+2026-06-11,Illegal Parking,BROOKLYN,738,True
+2026-06-11,Blocked Driveway,BROOKLYN,207,True
+2026-06-12,Noise - Residential,BROOKLYN,214,True
+2026-06-12,Illegal Parking,BROOKLYN,670,True
+2026-06-12,Blocked Driveway,BROOKLYN,208,True
+2026-06-13,Noise - Residential,BROOKLYN,383,True
+2026-06-13,Illegal Parking,BROOKLYN,632,True
+2026-06-13,Blocked Driveway,BROOKLYN,191,True
+2026-06-14,Noise - Residential,BROOKLYN,450,True
+2026-06-14,Illegal Parking,BROOKLYN,734,True
+2026-06-14,Blocked Driveway,BROOKLYN,203,True
+2026-06-15,Noise - Residential,BROOKLYN,277,True
+2026-06-15,Illegal Parking,BROOKLYN,719,True
+2026-06-15,Blocked Driveway,BROOKLYN,208,True
+2026-06-16,Noise - Residential,BROOKLYN,308,True
+2026-06-16,Illegal Parking,BROOKLYN,795,True
+2026-06-16,Blocked Driveway,BROOKLYN,214,True
+2026-06-17,Noise - Residential,BROOKLYN,236,True
+2026-06-17,Illegal Parking,BROOKLYN,746,True
+2026-06-17,Blocked Driveway,BROOKLYN,166,True
+2026-06-18,Noise - Residential,BROOKLYN,277,True
+2026-06-18,Illegal Parking,BROOKLYN,730,True
+2026-06-18,Blocked Driveway,BROOKLYN,225,True
+2026-06-19,Noise - Residential,BROOKLYN,419,True
+2026-06-19,Illegal Parking,BROOKLYN,659,True
+2026-06-19,Blocked Driveway,BROOKLYN,152,True
+2026-06-20,Noise - Residential,BROOKLYN,645,True
+2026-06-20,Illegal Parking,BROOKLYN,702,True
+2026-06-20,Blocked Driveway,BROOKLYN,184,True
+2026-06-21,Noise - Residential,BROOKLYN,708,True
+2026-06-21,Illegal Parking,BROOKLYN,657,True
+2026-06-21,Blocked Driveway,BROOKLYN,179,True
+2026-06-22,Noise - Residential,BROOKLYN,316,True
+2026-06-22,Illegal Parking,BROOKLYN,711,True
+2026-06-22,Blocked Driveway,BROOKLYN,235,True
+2026-06-23,Noise - Residential,BROOKLYN,239,True
+2026-06-23,Illegal Parking,BROOKLYN,832,True
+2026-06-23,Blocked Driveway,BROOKLYN,186,True
+2026-06-24,Noise - Residential,BROOKLYN,334,True
+2026-06-24,Illegal Parking,BROOKLYN,766,True
+2026-06-24,Blocked Driveway,BROOKLYN,173,True
+2026-06-25,Noise - Residential,BROOKLYN,254,True
+2026-06-25,Illegal Parking,BROOKLYN,766,True
+2026-06-25,Blocked Driveway,BROOKLYN,169,True
+2026-06-26,Noise - Residential,BROOKLYN,316,True
+2026-06-26,Illegal Parking,BROOKLYN,772,True
+2026-06-26,Blocked Driveway,BROOKLYN,200,True
+2026-06-27,Noise - Residential,BROOKLYN,467,True
+2026-06-27,Illegal Parking,BROOKLYN,591,True
+2026-06-27,Blocked Driveway,BROOKLYN,142,True
+2026-06-28,Noise - Residential,BROOKLYN,491,True
+2026-06-28,Illegal Parking,BROOKLYN,724,True
+2026-06-28,Blocked Driveway,BROOKLYN,187,True
+2026-06-29,Noise - Residential,BROOKLYN,290,True
+2026-06-29,Illegal Parking,BROOKLYN,749,True
+2026-06-29,Blocked Driveway,BROOKLYN,195,True
+2026-06-30,Noise - Residential,BROOKLYN,259,True
+2026-06-30,Illegal Parking,BROOKLYN,686,True
+2026-06-30,Blocked Driveway,BROOKLYN,182,True
+2026-07-01,Noise - Residential,BROOKLYN,285,True
+2026-07-01,Illegal Parking,BROOKLYN,586,True
+2026-07-01,Blocked Driveway,BROOKLYN,168,True
+2026-07-02,Noise - Residential,BROOKLYN,211,True
+2026-07-02,Illegal Parking,BROOKLYN,552,True
+2026-07-02,Blocked Driveway,BROOKLYN,159,True
+2026-07-03,Noise - Residential,BROOKLYN,247,True
+2026-07-03,Illegal Parking,BROOKLYN,418,True
+2026-07-03,Blocked Driveway,BROOKLYN,148,True
+2026-07-04,Noise - Residential,BROOKLYN,414,True
+2026-07-04,Illegal Parking,BROOKLYN,319,True
+2026-07-04,Blocked Driveway,BROOKLYN,118,True
+2026-07-05,Noise - Residential,BROOKLYN,436,True
+2026-07-05,Illegal Parking,BROOKLYN,423,True
+2026-07-05,Blocked Driveway,BROOKLYN,143,True
+2026-07-06,Noise - Residential,BROOKLYN,237,True
+2026-07-06,Illegal Parking,BROOKLYN,448,True
+2026-07-06,Blocked Driveway,BROOKLYN,187,True
+2026-07-07,Noise - Residential,BROOKLYN,238,True
+2026-07-07,Illegal Parking,BROOKLYN,626,True
+2026-07-07,Blocked Driveway,BROOKLYN,195,True
+2026-07-08,Noise - Residential,BROOKLYN,267,True
+2026-07-08,Illegal Parking,BROOKLYN,620,True
+2026-07-08,Blocked Driveway,BROOKLYN,172,True
+2026-07-09,Noise - Residential,BROOKLYN,234,True
+2026-07-09,Illegal Parking,BROOKLYN,619,True
+2026-07-09,Blocked Driveway,BROOKLYN,205,True
+2026-07-10,Noise - Residential,BROOKLYN,260,True
+2026-07-10,Illegal Parking,BROOKLYN,591,True
+2026-07-10,Blocked Driveway,BROOKLYN,153,True
+2026-07-11,Noise - Residential,BROOKLYN,373,True
+2026-07-11,Illegal Parking,BROOKLYN,467,True
+2026-07-11,Blocked Driveway,BROOKLYN,136,True
+2026-07-12,Noise - Residential,BROOKLYN,489,True
+2026-07-12,Illegal Parking,BROOKLYN,564,True
+2026-07-12,Blocked Driveway,BROOKLYN,180,True
+2026-07-13,Noise - Residential,BROOKLYN,244,True
+2026-07-13,Illegal Parking,BROOKLYN,721,True
+2026-07-13,Blocked Driveway,BROOKLYN,162,True
+2026-07-14,Noise - Residential,BROOKLYN,247,True
+2026-07-14,Illegal Parking,BROOKLYN,705,True
+2026-07-14,Blocked Driveway,BROOKLYN,163,True
+2026-07-15,Noise - Residential,BROOKLYN,202,True
+2026-07-15,Illegal Parking,BROOKLYN,516,True
+2026-07-15,Blocked Driveway,BROOKLYN,174,True
+2026-07-16,Noise - Residential,BROOKLYN,218,True
+2026-07-16,Illegal Parking,BROOKLYN,623,True
+2026-07-16,Blocked Driveway,BROOKLYN,148,True
+2026-07-17,Noise - Residential,BROOKLYN,310,True
+2026-07-17,Illegal Parking,BROOKLYN,633,True
+2026-07-17,Blocked Driveway,BROOKLYN,180,True
+2026-07-18,Noise - Residential,BROOKLYN,418,True
+2026-07-18,Illegal Parking,BROOKLYN,424,True
+2026-07-18,Blocked Driveway,BROOKLYN,123,True
+2026-07-19,Noise - Residential,BROOKLYN,411,True
+2026-07-19,Illegal Parking,BROOKLYN,652,True
+2026-07-19,Blocked Driveway,BROOKLYN,153,True
+2026-07-20,Noise - Residential,BROOKLYN,283,True
+2026-07-20,Illegal Parking,BROOKLYN,677,True
+2026-07-20,Blocked Driveway,BROOKLYN,156,True
+2026-07-21,Noise - Residential,BROOKLYN,239,True
+2026-07-21,Illegal Parking,BROOKLYN,666,True
+2026-07-21,Blocked Driveway,BROOKLYN,154,True
+2026-07-22,Noise - Residential,BROOKLYN,201,True
+2026-07-22,Illegal Parking,BROOKLYN,607,True
+2026-07-22,Blocked Driveway,BROOKLYN,137,True
+2026-07-23,Noise - Residential,BROOKLYN,310,True
+2026-07-23,Illegal Parking,BROOKLYN,584,True
+2026-07-23,Blocked Driveway,BROOKLYN,135,True
+2026-07-24,Noise - Residential,BROOKLYN,338,True
+2026-07-24,Illegal Parking,BROOKLYN,639,True
+2026-07-24,Blocked Driveway,BROOKLYN,155,True
+2026-07-25,Noise - Residential,BROOKLYN,568,True
+2026-07-25,Illegal Parking,BROOKLYN,520,True
+2026-07-25,Blocked Driveway,BROOKLYN,140,True
+2026-07-26,Noise - Residential,BROOKLYN,573,True
+2026-07-26,Illegal Parking,BROOKLYN,597,True
+2026-07-26,Blocked Driveway,BROOKLYN,162,True
+2026-07-27,Noise - Residential,BROOKLYN,231,True
+2026-07-27,Illegal Parking,BROOKLYN,698,True
+2026-07-27,Blocked Driveway,BROOKLYN,180,True
+2026-07-28,Noise - Residential,BROOKLYN,238,True
+2026-07-28,Illegal Parking,BROOKLYN,662,True
+2026-07-28,Blocked Driveway,BROOKLYN,172,True
+2026-07-29,Noise - Residential,BROOKLYN,275,True
+2026-07-29,Illegal Parking,BROOKLYN,618,True
+2026-07-29,Blocked Driveway,BROOKLYN,165,True
+2026-07-30,Noise - Residential,BROOKLYN,280,True
+2026-07-30,Illegal Parking,BROOKLYN,657,True
+2026-07-30,Blocked Driveway,BROOKLYN,137,True
+2026-07-31,Noise - Residential,BROOKLYN,351,True
+2026-07-31,Illegal Parking,BROOKLYN,631,True
+2026-07-31,Blocked Driveway,BROOKLYN,133,True
+2026-08-01,Noise - Residential,BROOKLYN,519,True
+2026-08-01,Illegal Parking,BROOKLYN,557,True
+2026-08-01,Blocked Driveway,BROOKLYN,132,True
+2026-08-02,Noise - Residential,BROOKLYN,451,True
+2026-08-02,Illegal Parking,BROOKLYN,557,True
+2026-08-02,Blocked Driveway,BROOKLYN,166,True
+2026-08-03,Noise - Residential,BROOKLYN,212,True
+2026-08-03,Illegal Parking,BROOKLYN,641,True
+2026-08-03,Blocked Driveway,BROOKLYN,134,True
+2026-08-04,Noise - Residential,BROOKLYN,247,True
+2026-08-04,Illegal Parking,BROOKLYN,679,True
+2026-08-04,Blocked Driveway,BROOKLYN,168,True
+2026-08-05,Noise - Residential,BROOKLYN,215,True
+2026-08-05,Illegal Parking,BROOKLYN,618,True
+2026-08-05,Blocked Driveway,BROOKLYN,140,True
+2026-08-06,Noise - Residential,BROOKLYN,248,True
+2026-08-06,Illegal Parking,BROOKLYN,666,True
+2026-08-06,Blocked Driveway,BROOKLYN,181,True
+2026-08-07,Noise - Residential,BROOKLYN,216,True
+2026-08-07,Illegal Parking,BROOKLYN,718,True
+2026-08-07,Blocked Driveway,BROOKLYN,153,True
+2026-08-08,Noise - Residential,BROOKLYN,361,True
+2026-08-08,Illegal Parking,BROOKLYN,546,True
+2026-08-08,Blocked Driveway,BROOKLYN,148,True
+2026-08-09,Noise - Residential,BROOKLYN,411,True
+2026-08-09,Illegal Parking,BROOKLYN,651,True
+2026-08-09,Blocked Driveway,BROOKLYN,164,True
+2026-08-10,Noise - Residential,BROOKLYN,214,True
+2026-08-10,Illegal Parking,BROOKLYN,709,True
+2026-08-10,Blocked Driveway,BROOKLYN,172,True
+2026-08-11,Noise - Residential,BROOKLYN,252,True
+2026-08-11,Illegal Parking,BROOKLYN,660,True
+2026-08-11,Blocked Driveway,BROOKLYN,162,True
+2026-08-12,Noise - Residential,BROOKLYN,243,True
+2026-08-12,Illegal Parking,BROOKLYN,686,True
+2026-08-12,Blocked Driveway,BROOKLYN,153,True
+2026-08-13,Noise - Residential,BROOKLYN,268,True
+2026-08-13,Illegal Parking,BROOKLYN,663,True
+2026-08-13,Blocked Driveway,BROOKLYN,169,True
+2026-08-14,Noise - Residential,BROOKLYN,303,True
+2026-08-14,Illegal Parking,BROOKLYN,616,True
+2026-08-14,Blocked Driveway,BROOKLYN,174,True
+2026-08-15,Noise - Residential,BROOKLYN,558,True
+2026-08-15,Illegal Parking,BROOKLYN,578,True
+2026-08-15,Blocked Driveway,BROOKLYN,152,True
+2026-08-16,Noise - Residential,BROOKLYN,442,True
+2026-08-16,Illegal Parking,BROOKLYN,569,True
+2026-08-16,Blocked Driveway,BROOKLYN,168,True
+2026-08-17,Noise - Residential,BROOKLYN,261,True
+2026-08-17,Illegal Parking,BROOKLYN,627,True
+2026-08-17,Blocked Driveway,BROOKLYN,199,True
+2026-08-18,Noise - Residential,BROOKLYN,238,True
+2026-08-18,Illegal Parking,BROOKLYN,644,True
+2026-08-18,Blocked Driveway,BROOKLYN,145,True
+2026-08-19,Noise - Residential,BROOKLYN,254,True
+2026-08-19,Illegal Parking,BROOKLYN,611,True
+2026-08-19,Blocked Driveway,BROOKLYN,189,True
+2026-08-20,Noise - Residential,BROOKLYN,222,True
+2026-08-20,Illegal Parking,BROOKLYN,575,True
+2026-08-20,Blocked Driveway,BROOKLYN,172,True
+2026-08-21,Noise - Residential,BROOKLYN,320,True
+2026-08-21,Illegal Parking,BROOKLYN,613,True
+2026-08-21,Blocked Driveway,BROOKLYN,151,True
+2026-08-22,Noise - Residential,BROOKLYN,553,True
+2026-08-22,Illegal Parking,BROOKLYN,617,True
+2026-08-22,Blocked Driveway,BROOKLYN,122,True
+2026-08-23,Noise - Residential,BROOKLYN,511,True
+2026-08-23,Illegal Parking,BROOKLYN,562,True
+2026-08-23,Blocked Driveway,BROOKLYN,154,True
+2026-08-24,Noise - Residential,BROOKLYN,301,True
+2026-08-24,Illegal Parking,BROOKLYN,650,True
+2026-08-24,Blocked Driveway,BROOKLYN,165,True
+2026-08-25,Noise - Residential,BROOKLYN,248,True
+2026-08-25,Illegal Parking,BROOKLYN,737,True
+2026-08-25,Blocked Driveway,BROOKLYN,179,True
+2026-08-26,Noise - Residential,BROOKLYN,286,True
+2026-08-26,Illegal Parking,BROOKLYN,598,True
+2026-08-26,Blocked Driveway,BROOKLYN,167,True
+2026-08-27,Noise - Residential,BROOKLYN,206,True
+2026-08-27,Illegal Parking,BROOKLYN,599,True
+2026-08-27,Blocked Driveway,BROOKLYN,172,True
+2026-08-28,Noise - Residential,BROOKLYN,370,True
+2026-08-28,Illegal Parking,BROOKLYN,641,True
+2026-08-28,Blocked Driveway,BROOKLYN,190,True
+2026-08-29,Noise - Residential,BROOKLYN,550,True
+2026-08-29,Illegal Parking,BROOKLYN,614,True
+2026-08-29,Blocked Driveway,BROOKLYN,160,True
+2026-08-30,Noise - Residential,BROOKLYN,481,True
+2026-08-30,Illegal Parking,BROOKLYN,612,True
+2026-08-30,Blocked Driveway,BROOKLYN,179,True
+2026-08-31,Noise - Residential,BROOKLYN,244,True
+2026-08-31,Illegal Parking,BROOKLYN,695,True
+2026-08-31,Blocked Driveway,BROOKLYN,208,True

@@ -1,0 +1,69 @@
+# Scope for the MVP. Everything downstream reads from this file so the
+# forecast, the app, and the tests all agree on what "in scope" means.
+
+scope:
+  agency: NYPD
+  borough: BROOKLYN
+  categories:
+    - "Noise - Residential"
+    - "Illegal Parking"
+    - "Blocked Driveway"
+  # 311 created_date has no timezone marker. The values are already local
+  # NYC wall-clock time, so we label them here instead of converting.
+  timezone: America/New_York
+
+socrata:
+  domain: data.cityofnewyork.us
+  dataset: erm2-nwe9
+  page_size: 5000
+  requests_per_second: 2.0
+  max_retries: 6
+  # Set SOCRATA_APP_TOKEN in .env for scheduled runs. Reads work without it,
+  # but unauthenticated traffic shares a throttling pool by IP.
+
+backfill:
+  start_date: "2024-09-01"
+  end_date: "2026-08-31"
+  partition: month
+
+incremental:
+  # Refetch this many days back from today on every scheduled run, because
+  # old rows get edited and a created_date watermark alone would miss that.
+  rolling_days: 30
+
+paths:
+  raw_archive: data/raw
+  fixtures: data/fixtures/requests.jsonl
+
+backtest:
+  # Origin is end-of-day Sunday. Forecast Monday through Sunday.
+  # May 4–31 provides exactly 28 warm-up days for the first origin.
+  first_origin: "2026-05-31"
+  last_origin: "2026-08-23"
+  horizon_days: 7
+  step_days: 7
+
+modeling:
+  # Fixed before model fitting. Baseline performance on these dates was already seen.
+  data_start: "2026-05-01"
+  validation_first_origin: "2026-06-28"
+  validation_last_origin: "2026-07-19"
+  evaluation_first_origin: "2026-07-26"
+  evaluation_last_origin: "2026-08-23"
+  min_training_rows: 100
+  candidates:
+    - id: shallow_60
+      num_leaves: 7
+      max_depth: 3
+      n_estimators: 60
+      min_child_samples: 30
+    - id: shallow_120
+      num_leaves: 7
+      max_depth: 3
+      n_estimators: 120
+      min_child_samples: 30
+    - id: regularized_120
+      num_leaves: 15
+      max_depth: 4
+      n_estimators: 120
+      min_child_samples: 50

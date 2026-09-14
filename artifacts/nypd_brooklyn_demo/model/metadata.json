@@ -1,0 +1,64 @@
+{
+  "categories": {
+    "area": [
+      "BROOKLYN"
+    ],
+    "category": [
+      "Blocked Driveway",
+      "Illegal Parking",
+      "Noise - Residential"
+    ]
+  },
+  "features": [
+    "horizon_days",
+    "target_weekday",
+    "target_weekend",
+    "target_day_of_month",
+    "target_month",
+    "target_holiday",
+    "target_before_holiday",
+    "target_after_holiday",
+    "origin_last",
+    "origin_lag7",
+    "mean7",
+    "mean14",
+    "mean28",
+    "std7",
+    "std28",
+    "min7",
+    "max7",
+    "recent_trend",
+    "weekday_lag1",
+    "weekday_lag2",
+    "weekday_lag3",
+    "weekday_lag4",
+    "weekday_mean4",
+    "weekday_trend",
+    "category",
+    "area"
+  ],
+  "kind": "lightgbm_poisson",
+  "lightgbm_version": "4.6.0",
+  "max_training_target": "2026-08-31",
+  "model_sha256": "54e709b68ce8abc6cf955ea635705e9e8ab3eac8aefdd1ddb8375c4343a5933c",
+  "params": {
+    "deterministic": true,
+    "force_col_wise": true,
+    "importance_type": "gain",
+    "learning_rate": 0.05,
+    "max_bin": 31,
+    "max_depth": 4,
+    "min_child_samples": 50,
+    "n_estimators": 120,
+    "n_jobs": 1,
+    "num_leaves": 15,
+    "objective": "poisson",
+    "random_state": 42,
+    "reg_lambda": 5.0,
+    "verbosity": -1
+  },
+  "training_cutoff": "2026-08-31",
+  "training_rows": 1932,
+  "training_sha256": "42af1127b65ef03aa340d6114283f1f0394fe614b58d7486d5847f0223b53343",
+  "unique_training_targets": 285
+}

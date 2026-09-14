@@ -1,0 +1,21 @@
+services:
+  db:
+    image: postgres:16
+    container_name: demand_db
+    environment:
+      POSTGRES_USER: forecaster
+      POSTGRES_PASSWORD: forecaster
+      POSTGRES_DB: demand
+    # 5433 on the host so this does not fight a Postgres you already run.
+    ports:
+      - "5433:5432"
+    volumes:
+      - demand_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U forecaster -d demand"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  demand_pgdata:

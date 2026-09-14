@@ -1,0 +1,16 @@
+# Pinned so a fresh clone gets the same behavior.
+psycopg[binary]==3.2.3
+requests==2.32.3
+PyYAML==6.0.2
+python-dotenv==1.0.1
+pandas==2.2.3
+pytest==8.3.3
+# Step 3 model and numerical runtime, pinned for reproducible training.
+lightgbm==4.6.0
+scikit-learn==1.6.1
+numpy==1.26.4
+scipy==1.15.2
+joblib==1.4.2
+threadpoolctl==3.6.0
+
+streamlit==1.49.1
